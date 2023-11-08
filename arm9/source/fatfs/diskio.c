@@ -8,7 +8,7 @@
 /*-----------------------------------------------------------------------*/
 
 #include "diskio.h"		/* FatFs lower layer API */
-#include "dldi.h"
+#include <nds/arm9/dldi.h>
 #include "common.h"
 
 /* Definitions of physical drive number for each media */

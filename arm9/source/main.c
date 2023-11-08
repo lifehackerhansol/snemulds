@@ -39,8 +39,6 @@
 #include "frontend.h"
 #include "main.h"
 
-#include "dldi.h"
-
 
 #include "ppu.h"
 
